@@ -1,0 +1,7 @@
+28-03-2021 21:13:56:276 Rest_servidor [INFO] : startJettyWebServer
+28-03-2021 21:13:56:991 Rest_servidor [INFO] : Jetty server started
+28-03-2021 21:13:56:991 Rest_servidor [INFO] : stopJettyServerAfter 30000 milliseconds
+28-03-2021 21:14:07:433 Rest_servidor [INFO] : sup
+28-03-2021 21:14:07:800 Rest_servidor [INFO] : per
+28-03-2021 21:14:07:821 Rest_servidor [INFO] : vol
+28-03-2021 21:14:27:002 Rest_servidor [INFO] : Jetty server stopped

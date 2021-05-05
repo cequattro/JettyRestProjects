@@ -1,0 +1,8 @@
+30-03-2021 20:44:18:420 udp_client [INFO] : inici client
+30-03-2021 20:44:18:422 udp_client [TRACE] : [1] Query for key k1 at localhost:5836
+30-03-2021 20:44:18:422 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2021 20:44:18:422 udp_client [TRACE] : key: k1
+30-03-2021 20:44:18:422 udp_client [TRACE] : server_address: localhost
+30-03-2021 20:44:18:422 udp_client [TRACE] : server_port: 5836
+30-03-2021 20:44:18:434 udp_client [TRACE] : [1] RemoteMap(k1): LA RESPUESTA DEL SERVIDOR ES R_K1 R_K1
+30-03-2021 20:44:18:435 udp_client [INFO] : map: {k1=LA RESPUESTA DEL SERVIDOR ES R_K1 R_K1}

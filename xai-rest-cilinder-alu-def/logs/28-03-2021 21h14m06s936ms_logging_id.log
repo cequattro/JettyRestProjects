@@ -1,0 +1,6 @@
+28-03-2021 21:14:06:956 Rest_client [INFO] : http://localhost:7070/cil/sup/6/2
+28-03-2021 21:14:06:957 Rest_client [INFO] : media type: application/json
+28-03-2021 21:14:07:770 Rest_client [INFO] : http://localhost:7070/cil/per/6/2
+28-03-2021 21:14:07:770 Rest_client [INFO] : media type: application/json
+28-03-2021 21:14:07:805 Rest_client [INFO] : http://localhost:7070/cil/vol/6/2
+28-03-2021 21:14:07:805 Rest_client [INFO] : media type: application/json

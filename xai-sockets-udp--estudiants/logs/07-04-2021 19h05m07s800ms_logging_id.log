@@ -1,0 +1,12 @@
+07-04-2021 19:05:07:820 udp_client [INFO] : inici client
+07-04-2021 19:05:07:822 udp_client [TRACE] : [1] Query for key k1 at localhost:5836
+07-04-2021 19:05:07:822 udp_client [INFO] : inici RemoteMapUDPclient.get 
+07-04-2021 19:05:07:822 udp_client [TRACE] : key: k1
+07-04-2021 19:05:07:822 udp_client [TRACE] : server_address: localhost
+07-04-2021 19:05:07:822 udp_client [TRACE] : server_port: 5836
+07-04-2021 19:05:07:834 udp_client [TRACE] : [1] RemoteMap(k1): R_k1
+07-04-2021 19:05:07:834 udp_client [TRACE] : [2] Query for key k2 at localhost:5838
+07-04-2021 19:05:07:834 udp_client [INFO] : inici RemoteMapUDPclient.get 
+07-04-2021 19:05:07:834 udp_client [TRACE] : key: k2
+07-04-2021 19:05:07:834 udp_client [TRACE] : server_address: localhost
+07-04-2021 19:05:07:834 udp_client [TRACE] : server_port: 5838

@@ -1,0 +1,4 @@
+30-03-2021 20:42:22:733 udp_servidor [INFO] : inici servidor
+30-03-2021 20:42:22:734 udp_servidor [INFO] : Inici RemoteMapUDPservidor 
+30-03-2021 20:42:22:734 udp_servidor [INFO] : server_port: 5836
+30-03-2021 20:42:22:734 udp_servidor [INFO] : map: {k1=R_k1, k3=R_k3, k4=R_k4}

@@ -1,0 +1,6 @@
+28-03-2021 18:10:35:559 tcp_client [INFO] : inici client http
+28-03-2021 18:10:35:561 tcp_client [INFO] : inici HTTPclient.get 
+28-03-2021 18:10:35:561 tcp_client [INFO] : HTTP server_address: gimp.org
+28-03-2021 18:10:35:561 tcp_client [INFO] : HTTP server_port: 80
+28-03-2021 18:10:35:561 tcp_client [INFO] : 
+28-03-2021 18:10:35:848 tcp_client [INFO] : 

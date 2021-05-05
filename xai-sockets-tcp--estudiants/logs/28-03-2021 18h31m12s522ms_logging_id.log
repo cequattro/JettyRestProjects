@@ -1,0 +1,6 @@
+28-03-2021 18:31:12:542 tcp_client [INFO] : inici client http
+28-03-2021 18:31:12:544 tcp_client [INFO] : inici HTTPclient.get 
+28-03-2021 18:31:12:544 tcp_client [INFO] : HTTP server_address: gimp.org
+28-03-2021 18:31:12:544 tcp_client [INFO] : HTTP server_port: 80
+28-03-2021 18:31:12:544 tcp_client [INFO] : OPTIONS / HTTP/1.1
+28-03-2021 18:31:42:834 tcp_client [INFO] : HTTP/1.1 302 FoundCache-Control: no-cacheContent-length: 0Location: https://gimp.org/
